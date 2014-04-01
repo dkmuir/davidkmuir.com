@@ -1,3 +1,4 @@
-name: davidkmuir
+name: David K Muir
 markdown: redcarpet
 pygments: true
+permalink: posts/:year/:month/:title
