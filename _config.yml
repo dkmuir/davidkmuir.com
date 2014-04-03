@@ -1,4 +1,6 @@
 name: David K Muir
+description: Web, tech, and other musings
+url: http://davidkmuir.com
 markdown: redcarpet
 pygments: true
 permalink: posts/:year/:month/:title
