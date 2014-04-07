@@ -2,11 +2,9 @@
 published: true
 layout: post
 title: "composer dump-autoload --optimize"
-date: {}
+date: 2014-04-07 
 categories: composer php autoload
 ---
-
-## Composer dump-autoload --optimise
 
 Just came across the [composer.json cheatsheet](http://composer.json.jolicode.com/).
 
