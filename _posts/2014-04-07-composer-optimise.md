@@ -1,5 +1,9 @@
 ---
-published: false
+published: true
+layout: post
+title: "composer dump-autoload --optimize"
+date: {}
+categories: composer php autoload
 ---
 
 ## Composer dump-autoload --optimise
